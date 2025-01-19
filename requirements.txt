@@ -1,0 +1,5 @@
+# Create a new environment
+# > conda create -n codenirmaan python==3.12.8 -y
+
+langchain
+gradio
